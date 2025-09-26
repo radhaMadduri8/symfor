@@ -1,0 +1,178 @@
+.homeCon{
+    width: 100vw;
+    height: 100vh;
+}
+.mainCon{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+            
+.image{
+    width: 200px;
+}
+.card{
+    width: 45vw;
+    margin: 10px;
+    padding: 10px;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlLLyvVtOz03ZzV2m70keSD7IJQJBmDnlW0Xd4R0GKm76IpHRA72jwX5pBqQiE-Ja_rQg&usqp=CAU');
+    background-size: cover;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.cardsCon{
+    display: flex;
+}
+.textcon{
+    width: 50%;
+}
+.imageCh{
+    width: 200px;
+}
+.minssoppCon{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.minsp{
+    background-color: #94a0b3;
+    padding: 10px;
+    border: 0px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+    margin-right: 5px;
+}
+.spanele{
+    margin-right: 5px;
+}
+.profile{
+    width: 50px;
+    border-radius: 50px;
+}
+.profileCon{
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.profileCon1{
+ margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ptc{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+}
+.profilename{
+    margin: 0px;
+    padding: 0px;
+}
+.catCard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+     background-image:linear-gradient(#fff,#d8dfeb,#bdc7d9);
+    border-radius: 10px;
+    margin-right: 15px;
+}
+.cathead{
+    margin-left: 20px;
+}
+.Categories{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 98%;
+    margin-left: 50px;
+   
+}
+.catimg{
+    width: 90px;
+    height: 90px;
+}
+.cattext{
+    font-size: 20px;
+}
+.cardscat{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.l1{
+     background-image:linear-gradient(#fff,#c5dbcb,#82b590);
+}
+.l2{
+   background-image:linear-gradient(#fff,#d1a9cc,#ad79a6);   
+}
+.simple{
+    text-align: center;
+}
+.simpCard{
+    border-radius: 10px;
+   margin-left: 10px;
+   
+   margin-bottom: 15px;
+    background-color: #d3eaeb;
+    padding-bottom: 10px;
+}
+.iconheart{
+background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYSmxUGz1XMeHcWbuxZXGwe4wRNYvKi7pbhg&s');
+    background-size: cover;
+    height:200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+     border-radius: 10px;
+}
+.hearticon{
+    margin:10px;
+    font-size: 30px;
+    color: white;
+}
+.minsp1{
+    border: 0px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding-left: 13px;
+}
+.sph{
+    margin: 0px;
+    padding: 0px;
+    margin-top: 5px;
+}
+.simpCardsCon{
+    display: flex;
+    justify-content: space-between;
+}
+.card1{
+    width: 45vw;
+    margin: 10px;
+    padding: 10px;
+    background-size: cover;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
