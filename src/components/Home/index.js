@@ -32,7 +32,7 @@ const Home=()=>
 
                     </div>
             </div>
-            <img className="imageCh" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTas8LjzPOqO0kmfDZnX_CdL0QzSGwwoiRdy3Zvf5KEEPUPiFkHw6MFdJyiqXEI9pZU13I&usqp=CAU"/>
+            <img className="imageCh" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwuli5ot2m4zAxePnYPdfKAyCMpDHX_BMvtA&s"/>
             
         </div>
          <div className='card'>
@@ -55,7 +55,7 @@ const Home=()=>
                            
                         </div>
             </div>
-            <img className="imageCh" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTas8LjzPOqO0kmfDZnX_CdL0QzSGwwoiRdy3Zvf5KEEPUPiFkHw6MFdJyiqXEI9pZU13I&usqp=CAU"/>
+            <img className="imageCh" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwuli5ot2m4zAxePnYPdfKAyCMpDHX_BMvtA&s"/>
             
         </div>
 
